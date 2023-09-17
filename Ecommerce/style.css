@@ -1,0 +1,6 @@
+.bg-line{border-bottom: 2px solid black;}
+.fs-7{font-size: 10px;}
+.btn-dangers{background-color: crimson;}
+.btn-dangers-sm{background-color: crimson; height: 25px; font-size: 8px;}
+.bg-blue{background-color: #02122c; border-top-left-radius: 100px;}
+.img-fix{object-fit: cover;}
